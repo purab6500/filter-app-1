@@ -1,0 +1,6 @@
+h1{
+    font-size: 25px !important;
+}
+.btn-danger:hover{
+    background-color: burlywood;
+}
